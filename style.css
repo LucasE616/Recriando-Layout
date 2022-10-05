@@ -41,6 +41,10 @@ nav ul li a, h1 {
   color: #ffffff;
 }
 
+a {
+  text-decoration: none;
+}
+
 .img {
   margin-right: 80px;
 }
